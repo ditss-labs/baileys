@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://fadzzz.vercel.app/shigure_ui.jpg" alt="WhatsApp Baileys" width="450"/>  
+  <img src="https://fadzzzcloud.biz.id/files/uploads-1763385819.jpg" alt="WhatsApp Baileys" width="450"/>  
 
   <h1>WhatsApp Baileys</h1>
   <p><strong>Lightweight, Full-Featured WhatsApp Web for Node.js</strong></p>
@@ -8,11 +8,11 @@
     <a href="https://npmjs.com/package/@fadzzzslebew/baileys">
       <img src="https://img.shields.io/npm/v/@fadzzzslebew/baileys?color=blue&logo=npm" alt="npm version">
     </a>
-    <a href="https://github.com/fadzzzslebew/baileys/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/fadzzzslebew/baileys?color=green" alt="license">
+    <a href="https://github.com/fadzzz404/baileys/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/fadzzz404/baileys?color=green" alt="license">
     </a>
-    <a href="https://github.com/fadzzzslebew/baileys/stargazers">
-      <img src="https://img.shields.io/github/stars/fadzzzslebew/baileys?color=yellow&logo=github" alt="github stars">
+    <a href="https://github.com/fadzzz404/baileys/stargazers">
+      <img src="https://img.shields.io/github/stars/fadzzz404/baileys?color=yellow&logo=github" alt="github stars">
     </a>
   </p>
 </div>
